@@ -1,2 +1,2 @@
-It is an WordPress Ecommerce gadget store. I built this using Razzi wordpress theme.
+This is a WordPress Ecommerce gadget store. I built this using Razzi wordpress theme.
 Attached Url: https://dev-techtastic.pantheonsite.io/
